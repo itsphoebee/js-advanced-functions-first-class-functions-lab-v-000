@@ -15,3 +15,5 @@ const createFareMultiplier = function(num){
     return distance * num;
   };
 }
+
+const fareDoubler = createFareMultiplier(2)
